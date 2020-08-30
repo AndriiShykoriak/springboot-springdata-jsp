@@ -1,0 +1,36 @@
+#saveLaptop {
+    position: center;
+    width: 100%;
+}
+
+.form-group {
+    margin-top: 20px;
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#submit, #title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.was-validated {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#home_main {
+    background-color: #9fcdff;
+}
+
+#home, #list_laptop, #list_laptopProducerDesc, #list_findLaptopByMemory, #list_findLaptopByUsed {
+    margin-top: 0px;
+    width: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
